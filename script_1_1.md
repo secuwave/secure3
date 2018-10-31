@@ -52,7 +52,7 @@
 ```
 #### greeting.js
 
-```
+```js
 birthday_member = "오픈베이스"
 member = prompt("이름을 입력하세요: ");
 if (member == birthday_member) {
