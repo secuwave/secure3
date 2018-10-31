@@ -50,5 +50,15 @@
 -- >
 </html>
 ```
+#### greeting.js
 
-**지각하지 않기** and 일 두배로 하기 and `보고잘하기` ^^
+```
+birthday_member = "오픈베이스"
+member = prompt("이름을 입력하세요: ");
+if (member == birthday_member) {
+    alert(member + "님 생일축하합니다!");
+}
+else {
+    alert(member + "님 반갑습니다!");
+}
+```
