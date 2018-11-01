@@ -1,7 +1,6 @@
-# Running Script 1
-## 1. 자바스크립트
-### 1.1 html 자바스크립트
+### 생일축하: html 자바스크립트
 
+#### 생일축하 인사
 ```html
 <!doctype html>
 <html>
@@ -24,7 +23,7 @@
 </html>
 
 ```
-### 1.2 자바스크립트 파일
+#### 자바스크립트 js(greeting.js) 파일로 분리 작성
 
 ```html
 <!doctype html>
@@ -50,6 +49,7 @@
 -- >
 </html>
 ```
+
 #### greeting.js
 
 ```js
