@@ -1,6 +1,6 @@
-### 생일축하: html 자바스크립트
+# html 자바스크립트 생일축하
 
-#### 생일축하 인사
+## 생일축하 인사
 ```html
 <!doctype html>
 <html>
@@ -23,8 +23,8 @@
 </html>
 
 ```
-#### 자바스크립트 js(greeting.js) 파일로 분리 작성
-
+## 자바스크립트 js(greeting.js) 파일로 분리 작성
+### html 파일
 ```html
 <!doctype html>
 <html>
@@ -50,7 +50,7 @@
 </html>
 ```
 
-#### greeting.js
+### 분리한 greeting.js
 
 ```js
 birthday_member = "오픈베이스"

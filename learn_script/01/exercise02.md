@@ -1,6 +1,6 @@
-### html 자바스크립트 Base64로 변환하기
+# html 자바스크립트 Base64로 변환하기
 
-#### Base64 변환하기
+## Base64 변환하기
 ```html
 ### 1.2 Base64 
 
@@ -27,5 +27,5 @@
   </script>
 </html>
 ```
-#### 실행 결과
+## 실행 결과
 ![result](./01/exercise02-1.png)
