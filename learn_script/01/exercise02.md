@@ -1,8 +1,7 @@
 # html 자바스크립트 Base64로 변환하기
 
 ## Base64 변환하기
-```html
-### 1.2 Base64 
+
 
 ```html
 <!doctype html>
