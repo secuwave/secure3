@@ -45,8 +45,14 @@ Anaconda는 사용이 편리하지만 설치 파일이 크고 디스크 사용�
 
 * ![VS Code extension](https://secuwave.github.io/secure3/learn_script/02/vscode_extension.png)
 
-(4) Python 
+(4) 아래 그림의 (1) -> (2) -> (3) 순서대로 작업해서 Python extension을 설치한다.
 
+* ![VS Code python extension](https://secuwave.github.io/secure3/learn_script/02/vscode_python_extension_install.png)
+
+(5) VS Code를 재시작 한다.
+
+(6) test.py라는 이름의 스크립트를 아래와 같이 작성하고 화면의 아무곳에서나 마우스 오른쪽 버튼을 눌러 "Run Python File in Terminal"을 실행한다. 결과는 하단 터미널 창에 출력된다.
+* ![VS Code test run](https://secuwave.github.io/secure3/learn_script/02/vscode_python_testrune.png)
 
 ---------------------
 
