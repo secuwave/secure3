@@ -28,4 +28,4 @@
 </html>
 ```
 ## 실행 결과
-![result](./01/exercise02-1.png)
+![result](./01/exercise021.png)
