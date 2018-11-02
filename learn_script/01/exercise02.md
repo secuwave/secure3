@@ -27,5 +27,7 @@
   </script>
 </html>
 ```
+
 ## 실행 결과
+
 ![result](https://secuwave.github.io/secure3/learn_script/01/exercise021.png)
