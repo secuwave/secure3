@@ -46,10 +46,15 @@ Anaconda는 사용이 편리하지만 설치 파일이 크고 디스크 사용�
 ## Python 환경 구성하기 / VS Code 활용
 
 (1) Python V3를 설치한다. 설치시 "Add Python 3.6 PATH" 또는 그에 유사한 옵션이 있으면 선택한다. PATH를 지정하면 아무 경로에서나 python 실행이 가능하다.
+
 (2) VS Code를 설치, 실행한다.
+
 (3) 화면 왼쪽 가장자리 세로 메뉴 끝의 extension아이콘을 선택한다. 
-* ![VS Code extension](./extension.png)
+
+* ![VS Code extension](https://secuwave.github.io/secure3/learn_script/02/extension.png)
+
 (4) Python 
+
 
 
 ---------------------
