@@ -14,3 +14,8 @@
 4. [Linux bash - 시스템 상태 체크](./01/exercise04.md)
 5. [Windows Batch - 특정 파일 찾아서 복사하기](./01/exercise05.md)
 
+## 2. Python
+
+### 미리 보기
+#### 아래 페이지를 한번 읽고 샘플 코드를 실행해 보고 오시면 좋습니다.
+* [Python 작업 환경 및 테스트 실행](./02/python_setup.md)
