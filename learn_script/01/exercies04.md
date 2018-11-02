@@ -19,6 +19,7 @@ $ ./my_script.sh
 ```
 
 ## 3초마다 연속 모니터링
+
 ```bash
 #! /bin/bash
 
