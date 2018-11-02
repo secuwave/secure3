@@ -33,6 +33,7 @@ done
 ```
 
 ## 파일에 저장
+
 ```bash
 #! /bin/bash
 
@@ -47,11 +48,13 @@ done
 ```
 
 ### 프로세스 확인
+
 ```bash
 $ ps –ef | grep bash
 ```
 
 ### 데이터 모니터링
+
 ```bash
 $ tail –f ./report.dat
 ```
