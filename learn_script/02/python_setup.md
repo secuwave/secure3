@@ -26,14 +26,6 @@ Anaconda는 사용이 편리하지만 설치 파일이 크고 디스크 사용�
 
 ---------------------
 
-## Python 교재 추천
-
-점프 투 파이썬: [https://wikidocs.net/book/1](https://wikidocs.net/book/1)
-* 15년 동안 업데이트되고 있는 무료 파이썬 강좌 사이트. 후에 책으로도 출판됨.
-* 파이썬의 기본부터 잘 설명
-
----------------------
-
 ## 에디터
 
 * 메모장, vi 등
@@ -51,10 +43,17 @@ Anaconda는 사용이 편리하지만 설치 파일이 크고 디스크 사용�
 
 (3) 화면 왼쪽 가장자리 세로 메뉴 끝의 extension아이콘을 선택한다. 
 
-* ![VS Code extension](https://secuwave.github.io/secure3/learn_script/02/extension.png)
+* ![VS Code extension](https://secuwave.github.io/secure3/learn_script/02/vscode_extension.png)
 
 (4) Python 
 
 
+---------------------
+
+## Python 교재 추천
+
+점프 투 파이썬: [https://wikidocs.net/book/1](https://wikidocs.net/book/1)
+* 15년 동안 업데이트되고 있는 무료 파이썬 강좌 사이트. 후에 책으로도 출판됨.
+* 파이썬의 기본부터 잘 설명
 
 ---------------------
