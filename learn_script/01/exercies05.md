@@ -1,7 +1,4 @@
-
-# Running Script 1
-## 2. Windows Batch
-### 2.2 file copy
+# Windows Batch - 특정 파일 찾아서 복사하기
 
 ```bat
 @echo off
