@@ -1,5 +1,6 @@
 # Openbase Learning Script
-## 1. Quick Start
+## 2. Python 
+
 ### 설명 자료
 * [OpenbaseSecurity_LearningScript_01.pdf](./01/OpenbaseSecurity_LearningScript_01.pdf)
 
