@@ -24,4 +24,5 @@
 * [OpenbaseSecurity_LearningScript_02.pdf](./02/OpenbaseSecurity_LearningScript_02.pdf)
 
 ### 실습
+
 * 다수의 도메인 목록에 대해 Whois 조회하기(./02/exercise.md)
