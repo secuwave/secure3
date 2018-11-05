@@ -14,6 +14,8 @@
 4. [Linux bash - 시스템 상태 체크](./01/exercise04.md)
 5. [Windows Batch - 특정 파일 찾아서 복사하기](./01/exercise05.md)
 
+--------------------
+
 ## 2. Python
 
 ### 미리 보기
