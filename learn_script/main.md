@@ -19,3 +19,9 @@
 ### 미리 보기
 #### 아래 페이지를 한번 읽고 샘플 코드를 실행해 보고 오시면 좋습니다.
 * [Python 작업 환경 및 테스트 실행](./02/python_setup.md)
+
+### 설명자료
+* [OpenbaseSecurity_LearningScript_02.pdf](./02/OpenbaseSecurity_LearningScript_02.pdf)
+
+### 실습
+* 다수의 도메인 목록에 대해 Whois 조회하기(./02/exercise.md)
