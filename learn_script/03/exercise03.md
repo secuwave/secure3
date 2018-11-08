@@ -2,7 +2,9 @@
 
 1. json 모듈을 import 합니다.
 2. json 모듈의 loads() 함수로 json 문자열을 딕셔너리 자료형으로 만듭니다. 
-  * dict_data = json.loads(ret)
+```python
+ dict_data = json.loads(ret)
+```
 3. 키로 데이터를 찾아서 출력합니다.
 
 
