@@ -52,7 +52,7 @@ organization도 'org'가 아닌 'registrant_org'항목에 있는 경우가 있�
 
 ### 1. 파일에서 도메인 목록 읽기
 
-'domain_input.txt'에 도메인 목록이 다음과 같은 도메인이 70개 들어 있습니다.
+'domain_input.txt'에 도메인 목록이 다음과 같은 도메인이 60개 들어 있습니다.
 한줄에 도메인 하나씩 입니다. 단, 도메인 앞뒤로 스페이스가 있을 수도 있습니다. 
 (실제 테스트에는 이 파일을 다운로드해서 사용합니다. [domain_input.txt](./domain_input.txt))
 
