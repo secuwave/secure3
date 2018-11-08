@@ -1,10 +1,10 @@
 ## whois 조회 - 불필요 문자 제거
 
-방법
+### 방법
 1. replace() 함수를 써서 order1의 빈 문자(space)를 제거하고 order2로 저장합니다.
 2. order2를 입력 도메인리스트로 줘서 whois 정보 조회를 합니다.
 
-참고
+### 참고
 * 아래 예를 실행하면 "Address is empty. Skip whois check."가 한번 찍힙니다. space가 제거되면서 ",,"으로 변한 부분이 있기 때문입니다.
 
 
