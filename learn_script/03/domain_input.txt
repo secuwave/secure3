@@ -6,8 +6,8 @@ www.seoul.go.kr
 www.data.go.kr
   www.yes24.com
 www.amazon.com
-www.bbc.co.uk
 www.koreabaseball.com
+www.homeplus.co.kr
 www.nst.re.kr
 www.11st.co.kr
 www.gscaltex.com
@@ -20,14 +20,11 @@ www.lge.co.kr
 galleria.co.kr
 www.ken.go.kr
 www.kyobobook.co.kr
-www.mpss.go.kr
 www.kbstar.com
-www.hrd.go.kr
 www.rda.go.kr
 www.danawa.com
 www.dje.go.kr
 www.pss.go.kr
-gosi.assembly.go.kr
 dcinside.com
 www.lotte.com
 www.lotteworld.com
@@ -35,7 +32,6 @@ plaync.co.kr
 www.mediajob.co.kr
 www.bokji.net
 www.saramin.co.kr
-www.samyangfood.co.kr
 www.sba.seoul.kr
 fire.seoul.go.kr
 hrd.seoul.go.kr
@@ -45,11 +41,8 @@ www.nbedu.or.kr
 www.ssg.com
 flyasiana.com
 www.aladin.co.kr
-www.women.go.kr
 www.ottogi.co.kr
 www.opensns.co.kr
-www.auction.co.kr
-www.unrecruit.go.kr
 www.wooribank.com
 www.emart.com
 www.ice.go.kr
@@ -64,8 +57,6 @@ www.korail.go.kr
 www.coupang.com
 kostat.go.kr
 kita.net
-www.hrdkorea.or.kr
-www.forca.org
-www.moi.go.kr
-www.homeplus.co.kr
+www.auction.co.kr
+www.unrecruit.go.kr
 

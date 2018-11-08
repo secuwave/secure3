@@ -3,9 +3,8 @@
 다음은 파일을 읽으면서 달라진 부분입니다.
 
 ```python
-with open('domain_input.txt', encoding='utf8') as input_file:
+with open('domain_input.txt', 'r', encoding='utf8') as input_file:
     for line in input_file:
-        line = line.strip()
 ```
 
 ### 전체 코드
@@ -22,8 +21,8 @@ def whois_check(address):
     result = whois.whois(address)
     return str(result)
 
-
-with open('domain_input.txt', encoding='utf8') as input_file:
+# with open('domain_input.txt', 'r') as input_file:
+with open('domain_input.txt', 'r', encoding='utf8') as input_file:
     for line in input_file:
         line = line.strip()
         print("check address = [{}]".format(line))
