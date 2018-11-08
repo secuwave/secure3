@@ -37,6 +37,7 @@ json 데이터에서 일부만 꺼내서 정리하려고 합니다. 어떻게 �
 
 그런데, 일부 주소지가 나오지 않는 도메인들이 있습니다.  
 이제 보니 주소지가 'address'가 아닌 'registrant_address'항목에 기록된 것들이 있군요.  
+organization도 'org'가 아닌 'registrant_org'항목에 있는 경우가 있습니다.  
 "'address'에 주소가 없으면 'registrant_address'의 값을 읽어와라" 라고 보강하려면 어떻게 해야 할까요?  
 * [결과 보기](./exercise04.md)
 
@@ -49,6 +50,20 @@ json 데이터에서 일부만 꺼내서 정리하려고 합니다. 어떻게 �
 입력을 파일에서 읽으면 스크립트의 도메인 목록 부분을 매번 수정할 필요도 없습니다.  
 가능한 스크립트는 스크립트의 기능을 바꾸는 경우가 아니라면 수정을 피해야 합니다. 불필요한 수정은 오류를 만들 수 있습니다.  
 
+### 1. 파일에서 도메인 목록 읽기
 
-### 파일에서 도메인 목록 읽기
+'domain_input.txt'에 도메인 목록이 다음과 같은 도메인이 70개 들어 있습니다.
+한줄에 도메인 하나씩 입니다. 단, 도메인 앞뒤로 스페이스가 있을 수도 있습니다. 
+(실제 테스트에는 이 파일을 다운로드해서 사용합니다. [domain_input.txt](./domain_input.txt))
 
+```text
+www.naver.com
+ www.google.com
+www.openbase.co.kr
+www.daum.net
+www.seoul.go.kr
+www.data.go.kr
+ www.yes24.com
+... 이하생략
+```
+* [결과 보기](./exercise05.md)

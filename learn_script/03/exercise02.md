@@ -1,4 +1,4 @@
-## whois 조회 - 불필요 문자 제거
+## whois 조회 2 - 불필요 문자 제거
 
 ### 방법
 1. replace() 함수를 써서 order1의 빈 문자(space)를 제거하고 order2로 저장합니다.
@@ -33,6 +33,6 @@ for address in new_todo_list: #리스트 요소들에 대한 whois 조회 및 �
         ret = whois_check(address)
         print("whois result = {}".format(ret))
     else:
-        print("Address is empty. Skip whois check.")
+        print("Address is empty. Skip whois check.\n")
 
 ```

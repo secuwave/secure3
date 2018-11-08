@@ -1,4 +1,4 @@
-## whois 조회
+## whois 조회 1
 
 ```python
 # -*- encoding: utf-8 -*-

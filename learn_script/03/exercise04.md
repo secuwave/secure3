@@ -1,14 +1,17 @@
-## whois 조회 - json 데이터에서 필요한 부분만 출력2
-### 주소('address') 항목에 값이 없으면 대체값('')을 읽는다.
+## whois 조회 4 - json 데이터에서 필요한 부분만 출력2
+### 주소('address') 항목에 값이 없으면 대체값('registrant_address')을 읽는다.
+### 기관('org') 항목에 값이 없으면 대체값()을 읽는다.
 
 달라진 부분은 다음 부분입니다. 다른 곳은 똑같습니다.  
-위 두줄이 이전 스크립트이고, 아래 두 줄이 없을 때 대체값을 구해 넣는 스크립트입니다.  
+위 주석 부분이 이전 스크립트이고, 아래 부분이 없을 때 대체값을 구해 넣는 스크립트입니다. 
 
 ```python
  # owner_address = dict_data.get('address')
  # owner_zipcode = dict_data.get('zipcode')
+ # owner_org = dict_data.get('org')
  owner_address = dict_data.get('address', dict_data.get('registrant_address'))
  owner_zipcode = dict_data.get('zipcode', dict_data.get('registrant_zip'))
+ owner_org = dict_data.get('org', dict_data.get('registrant_org'))
 ```
 
 ### 전체 코드
@@ -33,23 +36,28 @@ order2 = order1.replace(' ', '')  # 목록에서 space를 제거
 todo_list = order2.split(',')  # 도메인 목록을 ,로 잘라서 리스트 자료형으로 만듦
 new_todo_list = set(todo_list)  # 리스트 자료형을 집합(set)으로 변환해서 중복요소를 제거
 
-for address in new_todo_list: #리스트 요소들에 대한 whois 조회 및 결과 출력
+for address in new_todo_list:  # 리스트 요소들에 대한 whois 조회 및 결과 출력
     print("check address = [{}]".format(address))
-    if len(address): # address 길이가 0보다 크면 whois 조회
+    if len(address):  # address 길이가 0보다 크면 whois 조회
         ret = whois_check(address)
-        dict_data = json.loads(ret) # json 문자열 데이터를 딕셔너리 데이터로 변환, 이후 key로 액세스가능
+        dict_data = json.loads(ret)  # json 문자열 데이터를 딕셔너리 데이터로 변환, 이후 key로 액세스가능
 
         print("- country: {}".format(dict_data.get('country')))
         print("- city: {}".format(dict_data.get('city')))
+
         # owner_address = dict_data.get('address')
         # owner_zipcode = dict_data.get('zipcode')
         owner_address = dict_data.get('address', dict_data.get('registrant_address'))
         owner_zipcode = dict_data.get('zipcode', dict_data.get('registrant_zip'))
         print("- address: {} (zip:{})".format(owner_address, owner_zipcode))
-        print("- city: {}".format(dict_data.get('city')))
-        print("- organization: {}".format(dict_data.get('org')))
+
+        # owner_org = dict_data.get('org')
+        owner_org = dict_data.get('org', dict_data.get('registrant_org'))
+        print("- organization: {}".format(owner_org))
+
+        print("- admin email: {}".format(dict_data.get('admin_email')))
         print("\n")
     else:
-        print("- Address is empty. Skip whois check.")
+        print("- Address is empty. Skip whois check.\n")
 
 ```
