@@ -37,7 +37,7 @@ Anaconda는 사용이 편리하지만 설치 파일이 크고 디스크 사용�
 
 ## Python 환경 구성하기 / VS Code 활용 
 
-#### VS Code를 쓰지 않으실 분들은 (1)이후에 (6)으로 점프해서 (6)의 스크립트를 자신의 에디터에 쳐서 저장하고, CMD 창에서 "python.exe test.py"로 실행합니다.
+#### VS Code를 쓰지 않으실 분들은 (1)이후에 (6)으로 점프해서 (6)의 스크립트를 자신의 에디터에 쳐서 저장하고, CMD 창에서 "python.exe test1.py"로 실행합니다.
 
 
 (1) Python V3를 설치한다. 설치시 "Add Python 3.6 PATH" 또는 그에 유사한 옵션이 있으면 선택한다. PATH를 지정하면 아무 경로에서나 python 실행이 가능하다.
@@ -54,7 +54,7 @@ Anaconda는 사용이 편리하지만 설치 파일이 크고 디스크 사용�
 
 (5) VS Code를 재시작 한다.
 
-(6) test.py라는 이름의 스크립트를 아래와 같이 작성하고 화면의 아무곳에서나 마우스 오른쪽 버튼을 눌러 "Run Python File in Terminal"을 실행한다. 결과는 하단 터미널 창에 출력된다.
+(6) test1.py라는 이름의 스크립트를 아래와 같이 작성하고 화면의 아무곳에서나 마우스 오른쪽 버튼을 눌러 "Run Python File in Terminal"을 실행한다. 결과는 하단 터미널 창에 출력된다.
 * ![VS Code test run](https://secuwave.github.io/secure3/learn_script/02/vscode_python_testrune.png)
 
 ---------------------
