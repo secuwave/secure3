@@ -21,4 +21,6 @@
 
 ### 과제: [json 정보 작성](./03/homework.md)
 
-### 미리보기: [3번째 시간 내용](./03/exercise00.md)
+### 설명자료: [OpenbaseSecurity_LearningScript_03.pdf](./03/OpenbaseSecurity_LearningScript_03.pdf)
+
+### 실습: [파일에 있는 도메인 목록을 읽어서 whois 정보를 추출, csv 파일로 정리하기](./03/exercise00.md)
