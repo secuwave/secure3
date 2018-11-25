@@ -1,0 +1,10 @@
+a
+A
+aa
+aaa
+aaBBBaa
+aaaabbccc
+AAaaBbb
+.....
+dot(.)
+a(bc)de[fg]

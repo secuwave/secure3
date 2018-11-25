@@ -1,0 +1,6 @@
+bag: $23.45
+note: $5.31
+chair: $899.00
+pencil: $69.96
+Total items: 4
+today¡¯s date: 11.26
