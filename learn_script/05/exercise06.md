@@ -4,7 +4,7 @@
 
 모든 ip 주소를 'vvv.vvv.vvv.vvv'로 변경한다.
 
-- 입력: [forwardTrafficLog.Log](./test6_regex_ip/forwardTrafficLog.Log)
+- 입력: [forwardTrafficLog.Log](./test6_regex_ip/forwardTrafficLog.log)
 
 ```python
 import re
