@@ -1,0 +1,526 @@
+ C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(flatron@openbase.co.kr)\통합\KSIT_STC4F_WEB_L4-1_vADC-2.log (1 hit)
+	Line 16: Software Version 29.0.3.0 Image ID 4, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(secuwave@openbase.co.kr)\통합\KSIT_STC4F_WEB_L4-1_vADC-3.log (1 hit)
+	Line 16: Software Version 29.0.3.0 Image ID 4, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(secuwave@openbase.co.kr)\통합\KSIT_STC4F_WEB_L4-2 - ADC-VX.log (3 hits)
+	Line 30: ADC Application Software Version 29.0.3.0, Image ID 4
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(flatron@openbase.co.kr)\통합\KSIT_STC4F_WEB_L4-2_vADC-1.log (1 hit)
+	Line 16: Software Version 29.0.3.0 Image ID 4, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(secuwave@openbase.co.kr)\통합\KSIT_STC4F_WEB_L4-2_vADC-2.log (1 hit)
+	Line 16: Software Version 29.0.3.0 Image ID 4, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(newline@openbase.co.kr)\통합\KSIT_STC4F_WEB_L4-2_vADC-3.log (1 hit)
+	Line 17: Software Version 29.0.3.0 Image ID 4, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(flatron@openbase.co.kr)\통합\KSIT_STC4F_XLife_L4_1.log (1 hit)
+	Line 29: Software Version 29.0.3.0 Image ID 1, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(newline@openbase.co.kr)\통합\KSIT_STC4F_XLife_L4_2.log (1 hit)
+	Line 29: Software Version 29.0.3.0 Image ID 1, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(newline@openbase.co.kr)\통합\KSIT_STCF4_Sec_Server_L4-1.log (1 hit)
+	Line 29: Software Version 29.0.5.10 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(secuwave@openbase.co.kr)\통합\KSIT_STCF4_Sec_Server_L4-2.log (1 hit)
+	Line 29: Software Version 29.0.5.10 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(flatron@openbase.co.kr)\통합\KSIT_DunsanCall_16F_ARS_L4-1.log (1 hit)
+	Line 29: Software Version 26.3.5.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(newline@openbase.co.kr)\통합\KSIT_DunsanCall_16F_ARS_L4-2.log (1 hit)
+	Line 29: Software Version 26.3.5.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(newline@openbase.co.kr)\통합\KSIT_ENTER_SECURITY_L4.log (2 hits)
+	Line 17: Software Version 10.0.30.7 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(flatron@openbase.co.kr)\통합\KSIT_Gurocall_ARS_L4-1.log (2 hits)
+	Line 29: Software Version 26.3.5.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(fullmoon@openbase.co.kr)\통합\KSIT_Gurocall_ARS_L4-2.log (1 hit)
+	Line 29: Software Version 26.3.5.0 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(fullmoon@openbase.co.kr)\통합\KSIT_Gurocall_CTI_L4-1.log (1 hit)
+	Line 28: Software Version 29.0.5.10 Image ID 3, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(shoes33@openbase.co.kr)\통합\KSIT_Gurocall_CTI_L4-2.log (1 hit)
+	Line 28: Software Version 29.0.5.10 Image ID 3, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(flatron@openbase.co.kr)\통합\KSIT_iCAS_NIDS_L4.log (3 hits)
+	Line 30: Software Version 24.0.5 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(secuwave@openbase.co.kr)\통합\KSIT_Mileage_L4-19.log (3 hits)
+	Line 32: Software Version 25.3.1 (FLASH image1), active configuration.
+	C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(flatron@openbase.co.kr)\통합\KSIT_MobileCP_L4-1.log (3 hits)
+	Line 30: Software Version 24.0.5 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(secuwave@openbase.co.kr)\통합\KSIT_MobileCP_L4-2.log (3 hits)
+	Line 30: Software Version 24.0.5 (FLASH image1), active configuration.
+	C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(shoes33@openbase.co.kr)\통합\KSIT_Multi_Authen_L4-1.log (3 hits)
+	Line 30: Software Version 24.0.5 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(shoes33@openbase.co.kr)\통합\KSIT_Multi_Authen_L4-2.log (3 hits)
+	Line 30: Software Version 24.0.5 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(fullmoon@openbase.co.kr)\통합\KSIT_NAC_L4_1.log (1 hit)
+	Line 30: Software Version 24.0.5 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(shoes33@openbase.co.kr)\통합\KSIT_NAC_L4_2.log (1 hit)
+	Line 30: Software Version 24.0.5 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(fullmoon@openbase.co.kr)\통합\KSIT_NGM_New_L4#1.log (1 hit)
+	Line 30: Software Version 29.5.0.0 Image ID 1, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(datamon@openbase.co.kr)\통합\KSIT_NGM_New_L4#2.log (1 hit)
+	Line 30: Software Version 29.5.0.0 Image ID 1, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(tester00@openbase.co.kr)\통합\KSIT_P3FN_3D11R3_PRI_6420_L4-1 - ADC-VX.log (2 hits)
+	Line 30: ADC Application Software Version 29.5.4.10, Image ID 2
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(tester00@openbase.co.kr)\통합\KSIT_P3FN_3D11R3_PRI_6420_L4-2 - ADC-VX.log (2 hits)
+	Line 54: ADC Application Software Version 29.5.4.10, Image ID 2
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(fullmoon@openbase.co.kr)\통합\KSIT_POC_WEB_AAS5412_L4-1.log (1 hit)
+	Line 35: Software Version 30.5.7.0 Image ID 6, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(tester00@openbase.co.kr)\통합\KSIT_POC_WEB_AAS5412_L4-2.log (1 hit)
+	Line 35: Software Version 30.5.7.0 Image ID 6, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(flatron@openbase.co.kr)\통합\KSIT_TNET_L4-1.log (1 hit)
+	Line 28: Software Version 29.5.5.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(extrahop@openbase.co.kr)\통합\KSIT_TNET_L4-2.log (1 hit)
+	Line 28: Software Version 29.5.5.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(flatron@openbase.co.kr)\통합\UNITech_P2FN_2C5_5_SVR_A5224_L4_B.log (1 hit)
+	Line 32: Software Version 30.0.14.0 Image ID 4, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(fullmoon@openbase.co.kr)\통합\UNITech_P2FN_2C5_5_SVR_A5224_L4_M.log (1 hit)
+	Line 32: Software Version 30.0.14.0 Image ID 4, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(extrahop@openbase.co.kr)\통합\UNITech_P2FN_2C5_5_WEB_A5224_L4_M.log (1 hit)
+	Line 32: Software Version 30.0.14.0 Image ID 4, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(datamon@openbase.co.kr)\통합\UNITech_P2FN_2C5_6_WEB_A5224_L4_B.log (1 hit)
+	Line 32: Software Version 30.0.14.0 Image ID 4, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(fullmoon@openbase.co.kr)\통합\SCTI_STC3F_A4408_L4-1.log (1 hit)
+	Line 26: Software Version 29.0.4.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(tester00@openbase.co.kr)\통합\SCTI_STC3F_A4408_L4-2.log (1 hit)
+	Line 26: Software Version 29.0.4.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(extrahop@openbase.co.kr)\통합\DSI_HSQ_AAS2208_L4.log (1 hit)
+	Line 22: Software Version 22.0.4 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(dreamer1@openbase.co.kr)\통합\CS3_L4_Pub_01.log (3 hits)
+	Line 34: Software Version 25.3.3 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(extrahop@openbase.co.kr)\통합\CS3_L4_Pub_02.log (3 hits)
+	Line 36: Software Version 25.3.3 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(datamon@openbase.co.kr)\통합\Huvis_DXC2F_L4-1.log (3 hits)
+	Line 34: Software Version 25.3.1 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(macross@openbase.co.kr)\통합\L4_PMTSD.log (2 hits)
+	Line 21: Software Version 10.0.28.5-SSH (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(flatron@openbase.co.kr)\통합\PSS_DDIC_3F_SVRL4_AS6024_1.log (1 hit)
+	Line 35: Software Version 30.5.9.100 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(macross@openbase.co.kr)\통합\PSS_DDIC_3F_SVRL4_AS6024_2.log (1 hit)
+	Line 35: Software Version 30.5.9.100 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(extrahop@openbase.co.kr)\통합\PSS_STC_3F_WEBL4_AS6024_1.log (1 hit)
+	Line 37: Software Version 30.5.9.100 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(dreamer1@openbase.co.kr)\통합\PSS_STC_3F_WEBL4_AS6024_2.log (1 hit)
+	Line 37: Software Version 30.5.9.100 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(datamon@openbase.co.kr)\통합\GUIT_STC3F_A5208_IAM_L4_1.log (1 hit)
+	Line 30: Software Version 30.0.7.0 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(macross@openbase.co.kr)\통합\GUIT_STC3F_A5208_IAM_L4_2.log (1 hit)
+	Line 30: Software Version 30.0.7.0 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(flatron@openbase.co.kr)\통합\GUIT_STC3F_A6024_APSLB1_L4_1.log (1 hit)
+	Line 35: Software Version 30.5.7.0 Image ID 3, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(datamon@openbase.co.kr)\통합\GUIT_STC3F_A6024_APSLB1_L4_2.log (1 hit)
+	Line 35: Software Version 30.5.7.0 Image ID 3, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(macross@openbase.co.kr)\통합\GUIT_STC3F_A6024_APSLB2_L4_1.log (1 hit)
+	Line 35: Software Version 30.5.7.0 Image ID 3, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(tester00@openbase.co.kr)\통합\GUIT_STC3F_A6024_APSLB2_L4_2.log (1 hit)
+	Line 35: Software Version 30.5.7.0 Image ID 3, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(tester00@openbase.co.kr)\통합\GUIT_STC3F_A6024_DMZ_L4_1.log (1 hit)
+	Line 35: Software Version 30.5.7.0 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(dreamer1@openbase.co.kr)\통합\GUIT_STC3F_A6024_DMZ_L4_2.log (1 hit)
+	Line 35: Software Version 30.5.7.0 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(icecoffee@openbase.co.kr)\통합\GUIT_STC3F_A6024_MM_L4_1.log (1 hit)
+	Line 35: Software Version 30.5.6.0 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(dreamer1@openbase.co.kr)\통합\GUIT_STC3F_A6024_MM_L4_2.log (1 hit)
+	Line 35: Software Version 30.5.6.0 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(tester00@openbase.co.kr)\통합\TTABS_STC4F_A4416_L4_1.log (1 hit)
+	Line 27: Software Version 26.3.5.0 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(ddest00@openbase.co.kr)\통합\TTABS_STC4F_A4416_L4_2.log (1 hit)
+	Line 31: Software Version 26.3.5.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(icecoffee@openbase.co.kr)\통합\TTAC_SuwonL4_1.log (3 hits)
+	Line 30: Software Version 24.0.7 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(human00@openbase.co.kr)\통합\TTAC_SuwonL4_2.log (3 hits)
+	Line 30: Software Version 24.0.7 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(jestill@openbase.co.kr)\통합\TTAC_STC_L4-1.log (1 hit)
+	Line 30: Software Version 24.0.5 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(datamon@openbase.co.kr)\통합\TTAC_STC_L4-2.log (3 hits)
+	Line 30: Software Version 24.0.5 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(howto@openbase.co.kr)\통합\TTAC_STC2F_EPM_L4_B.log (1 hit)
+	Line 30: Software Version 25.3.5 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(icecoffee@openbase.co.kr)\통합\TTAC_STC2F_EPM_L4_M.log (1 hit)
+	Line 30: Software Version 25.3.5 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(killme@openbase.co.kr)\통합\TTAC_STC2F_IT_L4_1.log (1 hit)
+	Line 32: Software Version 29.0.5.0 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(prime@openbase.co.kr)\통합\TTAC_STC2F_IT_L4_2.log (1 hit)
+	Line 32: Software Version 29.0.5.0 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(fullmoon@openbase.co.kr)\통합\TTAC_PGA2F_ECM_L4_1.log (1 hit)
+	Line 29: Software Version 26.3.6.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(asdfjkl@openbase.co.kr)\통합\TTAC_PGA2F_ECM_L4_2.log (1 hit)
+	Line 29: Software Version 26.3.6.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(devops@openbase.co.kr)\통합\TTAChem_STC_MIS_L4-1.log (1 hit)
+	Line 26: Software Version 29.0.3.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(flatron@openbase.co.kr)\통합\TTAChem_STC_MIS_L4-2.log (1 hit)
+	Line 26: Software Version 29.0.3.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(datamon@openbase.co.kr)\통합\TTACHEM-L4-A.log (2 hits)
+	Line 26: Software Version 29.0.3.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(alert@openbase.co.kr)\통합\TTACHEM-L4-B.log (2 hits)
+	Line 30: Software Version 29.0.3.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(extrahop@openbase.co.kr)\통합\TTAE_STC2F_L4_EHR_3.log (1 hit)
+	Line 30: Software Version 30.0.7.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(secuwave@openbase.co.kr)\통합\TTAE_STC2F_L4_EHR_4.log (1 hit)
+	Line 30: Software Version 30.0.7.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(ascii@openbase.co.kr)\통합\TTAE_STC3F_A6024_MP_L4_1.log (1 hit)
+	Line 35: Software Version 30.5.6.0 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(insight@openbase.co.kr)\통합\TTAE_STC3F_A6024_MP_L4_2.log (1 hit)
+	Line 35: Software Version 30.5.6.0 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(newline@openbase.co.kr)\통합\TTAE_STC3F_Enclean_PIMS_L4_1.log (1 hit)
+	Line 32: Software Version 29.0.3.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(sourceaddr@openbase.co.kr)\통합\TTAE_STC3F_Enclean_PIMS_L4_2.log (2 hits)
+	Line 32: Software Version 29.0.3.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(ballpointpen@openbase.co.kr)\통합\TTAE_STC3F_V221_L4-1.log (1 hit)
+	Line 34: Software Version 25.3.1 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(baseball@openbase.co.kr)\통합\TTAE_STC3F_V221_L4-2.log (1 hit)
+	Line 34: Software Version 25.3.1 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(piano@openbase.co.kr)\통합\TTAEC_STC3F_A5224_L4-1.log (1 hit)
+	Line 26: Software Version 30.0.7.0 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(dreamer1@openbase.co.kr)\통합\TTAEC_STC3F_A5224_L4-2.log (1 hit)
+	Line 26: Software Version 30.0.7.0 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(coolwater@openbase.co.kr)\통합\TTAEC_STC3F_DMZ_L4_1.log (1 hit)
+	Line 26: Software Version 29.0.6.10 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(icecoffee@openbase.co.kr)\통합\TTAEC_STC3F_DMZ_L4_2.log (1 hit)
+	Line 26: Software Version 29.0.6.10 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(orange99@openbase.co.kr)\통합\TTAENS_PDC_2F_A2208_DMZ_L4-2_std.log (1 hit)
+	Line 31: Software Version 23.2.9 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(shoes33@openbase.co.kr)\통합\TTAENS_PDC_2F_A2208_Serv_L4-3_Act.log (2 hits)
+	Line 31: Software Version 25.3.8 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(macross@openbase.co.kr)\통합\TTAENS_PDC_2F_A2208_Serv_L4-3_Std.log (1 hit)
+	Line 31: Software Version 25.3.2 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(trainx@openbase.co.kr)\통합\TTAENS_PDC_2F_A2216_DMZ_L4-2_Act.log (1 hit)
+	Line 31: Software Version 24.0.5 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(majorarea@openbase.co.kr)\통합\TTAENS_PDC_2F_A3408_Serv_L4-2_Act.log (3 hits)
+	Line 31: Software Version 25.3.8 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(daemon99@openbase.co.kr)\통합\TTAENS_PDC_2F_A3408_Serv_L4-2_std.log (2 hits)
+	Line 31: Software Version 25.3.8 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(fixthis@openbase.co.kr)\통합\TTAENS_PDC_2F_A4408_GIS_L4-1.log (1 hit)
+	Line 28: Software Version 29.0.5.10 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(brokentool@openbase.co.kr)\통합\TTAENS_PDC_2F_A4408_GIS_L4-2.log (1 hit)
+	Line 28: Software Version 29.0.5.10 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(brokentool@openbase.co.kr)\통합\TTAENS_PDC_2F_A4416_DMZ_L4-1_Act.log (1 hit)
+	Line 29: Software Version 29.0.5.10 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(baseball@openbase.co.kr)\통합\TTAENS_PDC_2F_A4416_DMZ_L4-1_std.log (1 hit)
+	Line 29: Software Version 29.0.5.10 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(insight@openbase.co.kr)\통합\TTAENS_PDC_2F_A4416_Serv_L4-1_Act.log (1 hit)
+	Line 29: Software Version 29.0.5.10 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(secuwave@openbase.co.kr)\통합\TTAENS_PDC_2F_A4416_Serv_L4-1_Std.log (1 hit)
+	Line 29: Software Version 29.0.5.10 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(secuwave@openbase.co.kr)\통합\TTAGas_STC3F_A4408_DMZ1.log (1 hit)
+	Line 26: Software Version 30.0.13.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(killme@openbase.co.kr)\통합\TTAGas_STC3F_A4408_DMZ2.log (1 hit)
+	Line 26: Software Version 30.0.13.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(palypiano@openbase.co.kr)\통합\TTAGas_STC3F_A4408_IN1.log (1 hit)
+	Line 26: Software Version 29.0.3.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(orange99@openbase.co.kr)\통합\TTAGas_STC3F_A4408_IN2.log (2 hits)
+	Line 26: Software Version 29.0.3.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(pinetree@openbase.co.kr)\통합\TTAHC_STC3F_A3408_WEB_L4_3.log (3 hits)
+	Line 28: Software Version 25.3.6 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(redflower@openbase.co.kr)\통합\TTAHC_STC3F_A3408_WEB_L4_4.log (3 hits)
+	Line 28: Software Version 25.3.6 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(shoes33@openbase.co.kr)\통합\TTAHC_STC3F_A4416_L4_1.log (2 hits)
+	Line 27: Software Version 26.3.5.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(coolwater@openbase.co.kr)\통합\TTAHC_STC3F_A4416_L4_2.log (2 hits)
+	Line 27: Software Version 26.3.5.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(roses900@openbase.co.kr)\통합\TTAHC_STC3F_A4416_L4_3.log (1 hit)
+	Line 26: Software Version 29.0.1.10 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(devops@openbase.co.kr)\통합\TTAHC_STC3F_A4416_L4_4.log (1 hit)
+	Line 26: Software Version 29.0.1.10 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(flatron@openbase.co.kr)\통합\TTAHC_STC3F_WEB_A5224_L4-1.log (1 hit)
+	Line 32: Software Version 30.5.7.0 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(earth@openbase.co.kr)\통합\TTAHC_STC3F_WEB_A5224_L4-2.log (1 hit)
+	Line 32: Software Version 30.5.7.0 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(sunandmoon@openbase.co.kr)\통합\TTAHC_DR5F_A3408_DMZ_L4.log (1 hit)
+	Line 28: Software Version 25.3.6 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(icecoffee@openbase.co.kr)\통합\TTAI_CLX_OA_SF_L4_1.log (1 hit)
+	Line 32: Software Version 30.0.13.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(backspace@openbase.co.kr)\통합\TTAI_CLX_OA_SF_L4-2.log (1 hit)
+	Line 30: Software Version 30.0.13.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(backspace@openbase.co.kr)\통합\TTAI_STC_HIPER_L4_5.log (1 hit)
+	Line 32: Software Version 25.3.0 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(nexttime@openbase.co.kr)\통합\TTAI_STC_HIPER_L4_6.log (1 hit)
+	Line 32: Software Version 25.3.8 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(icecoffee@openbase.co.kr)\통합\TTAI_STC3F_A4416_Battery_L4_1.log (2 hits)
+	Line 27: Software Version 26.3.3.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(nexttime@openbase.co.kr)\통합\TTAI_STC3F_A4416_Battery_L4_2.log (1 hit)
+	Line 27: Software Version 26.3.3.0 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(redflower@openbase.co.kr)\통합\TTAI_STC3F_A5412_HIOK_L4_1.log (1 hit)
+	Line 26: Software Version 30.0.12.0 Image ID 4, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(devops@openbase.co.kr)\통합\TTAI_STC3F_A5412_HIOK_L4_2.log (1 hit)
+	Line 26: Software Version 30.0.12.0 Image ID 4, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(flattron@openbase.co.kr)\통합\TTAI_STC3F_A6420_HIOK_L4_1.log (1 hit)
+	Line 26: Software Version 30.0.10.0 Image ID 4, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(killme@openbase.co.kr)\통합\TTAI_STC3F_A6420_HIOK_L4_2.log (1 hit)
+	Line 26: Software Version 30.0.10.0 Image ID 4, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(devops@openbase.co.kr)\통합\TTAI_STC4F_A4408_TAC_L4_1.log (1 hit)
+	Line 27: Software Version 26.3.5.30 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(frontdoor@openbase.co.kr)\통합\TTAI_STC4F_A4408_TAC_L4_2.log (1 hit)
+	Line 27: Software Version 26.3.5.30 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(frontdoor@openbase.co.kr)\통합\TTAI_STC4F_AAS3408E_LiBS_L4_1.log (4 hits)
+	Line 32: Software Version 25.3.2 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(keyfeature@openbase.co.kr)\통합\TTAI_STC4F_AAS3408E_LiBS_L4_2.log (3 hits)
+	Line 32: Software Version 25.3.1 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(telephone@openbase.co.kr)\통합\TTAI_DR5F_A4416_DMZ_L4.log (2 hits)
+	Line 31: Software Version 26.3.5.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(ballpointpen@openbase.co.kr)\통합\TTAI_DR5F_A4416_SVRZONE_L4.log (1 hit)
+	Line 31: Software Version 26.3.5.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(notebook@openbase.co.kr)\통합\TTALUB_STC3F_L4_1.log (1 hit)
+	Line 28: Software Version 24.0.4 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(notebook@openbase.co.kr)\통합\TTALUB_STC3F_L4_2.log (1 hit)
+	Line 28: Software Version 24.0.4 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(redflower@openbase.co.kr)\통합\TTAM_STC2F_Alteon_DMZ_L4_1.log (1 hit)
+	Line 26: Software Version 30.0.5.10 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(coolwater@openbase.co.kr)\통합\TTAM_STC2F_Alteon_DMZ_L4_2.log (1 hit)
+	Line 26: Software Version 30.0.5.10 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(output@openbase.co.kr)\통합\TTAM_STC2F_Alteon5224_SVR_L4_1.log (1 hit)
+	Line 26: Software Version 30.0.5.10 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(coolwater@openbase.co.kr)\통합\TTAM_STC2F_Alteon5224_SVR_L4_2.log (1 hit)
+	Line 26: Software Version 30.0.5.10 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(coolwater@openbase.co.kr)\통합\TTAN_STC_SM_L4-5.log (1 hit)
+	Line 30: Software Version 29.0.7.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(insight@openbase.co.kr)\통합\TTAN_STC_SM_L4-6.log (1 hit)
+	Line 30: Software Version 29.0.7.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(attacker@openbase.co.kr)\통합\TTAN_STC2F_A4416_WEB_L4_5.log (1 hit)
+	Line 31: Software Version 26.3.6.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(normal@openbase.co.kr)\통합\TTAN_STC2F_A4416_WEB_L4_6.log (1 hit)
+	Line 31: Software Version 26.3.6.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(summer@openbase.co.kr)\통합\TTAN_STC2F_A4416_WEB_L4_7.log (1 hit)
+	Line 30: Software Version 29.0.3.0 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(nexttime@openbase.co.kr)\통합\TTAN_STC2F_A4416_WEB_L4_8.log (2 hits)
+	Line 30: Software Version 29.0.3.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(orange99@openbase.co.kr)\통합\TTAN_STC2F_A5224_DSSRS_L4_7.log (1 hit)
+	Line 30: Software Version 30.2.5.0 Image ID 3, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(newera@openbase.co.kr)\통합\TTAN_STC2F_A5224_DSSRS_L4_8.log (1 hit)
+	Line 30: Software Version 30.2.5.0 Image ID 3, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(postman@openbase.co.kr)\통합\TTAN_STC2F_DSSRSFarm_L4_3.log (3 hits)
+	Line 30: Software Version 25.3.1 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(badtool@openbase.co.kr)\통합\TTAN_STC2F_DSSRSFarm_L4_4.log (3 hits)
+	Line 30: Software Version 25.3.1 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(coolwater@openbase.co.kr)\통합\TTAN_STC2F_DSSRSFarm_L4_5.log (3 hits)
+	Line 30: Software Version 25.3.3 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(julyflower@openbase.co.kr)\통합\TTAN_STC2F_DSSRSFarm_L4_6.log (3 hits)
+	Line 30: Software Version 25.3.3 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(ykkeeee@openbase.co.kr)\통합\TTAN_STC2F_GW_L4_1.log (1 hit)
+	Line 29: Software Version 26.3.1.0 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(smallcup@openbase.co.kr)\통합\TTAN_STC2F_GW_L4_2.log (1 hit)
+	Line 29: Software Version 26.3.1.0 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(devops@openbaseco.kr)\통합\TTAN_STC2F_SM_L4_3.log (1 hit)
+	Line 30: Software Version 25.3.6 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(secuwave@openbase.co.kr)\통합\TTAN_STC2F_SM_L4_4.log (1 hit)
+	Line 30: Software Version 25.3.2 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(notebook@openbase.co.kr)\통합\TTAN_STC2F_SM_WEB_L4_1.log (1 hit)
+	Line 26: Software Version 29.0.7.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(allthings@openbase.co.kr)\통합\TTAN_STC2F_SM_WEB_L4_2.log (1 hit)
+	Line 26: Software Version 29.0.7.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(alertlogic@openbase.co.kr)\통합\TTAN_STC2F_WEB_L4_1.log (2 hits)
+	Line 27: Software Version 26.3.4.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(math999@openbase.co.kr)\통합\TTAN_STC2F_WEB_L4_2.log (2 hits)
+	Line 27: Software Version 26.3.4.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(phishing@openbase.co.kr)\통합\TTAN_STC2F_WEB_L4_3.log (2 hits)
+	Line 27: Software Version 26.3.5.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(newera@openbase.co.kr)\통합\TTAN_STC2F_WEB_L4_4.log (2 hits)
+	Line 27: Software Version 26.3.5.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(decemberstart@openbase.co.kr)\통합\TTAN_HQ_5224_L4_1.log (1 hit)
+	Line 26: Software Version 30.0.7.0 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(yourname@openbase.co.kr)\통합\TTAN_HQ_5224_L4_2.log (1 hit)
+	Line 26: Software Version 30.0.7.0 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(thistime@openbase.co.kr)\통합\TTAN_HQ_VPN_L4_1.log (3 hits)
+	Line 28: Software Version 25.3.1 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(minitool@openbase.co.kr)\통합\TTAN_HQ_VPN_L4_2.log (3 hits)
+	Line 28: Software Version 25.3.1 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(telephone@openbase.co.kr)\통합\TTAN_HQ_VPN_L4_3.log (3 hits)
+	Line 28: Software Version 25.3.1 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(monitoree@openbase.co.kr)\통합\TTAN_HQ_VPN_L4_4.log (1 hit)
+	Line 28: Software Version 25.3.1 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(paperwork@openbase.co.kr)\통합\TTANES_SpeedmateERS_DMZ_L4_B.log (1 hit)
+	Line 28: Software Version 24.0.7 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(pencil4@openbase.co.kr)\통합\TTANES_SpeedmateERS_DMZ_L4_M.log (1 hit)
+	Line 28: Software Version 24.0.7 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(notebook@openbase.co.kr)\통합\TTANS_STC2F_A4408_L4_1.log (1 hit)
+	Line 26: Software Version 29.0.4.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(sightseeing@openbase.co.kr)\통합\TTANS_STC2F_A4408_L4_2.log (1 hit)
+	Line 26: Software Version 29.0.4.0 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(notepad@openbase.co.kr)\통합\TTAP_Bora_PIMS_L4_1.log (1 hit)
+	Line 29: Software Version 26.3.6.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(earth7@openbase.co.kr)\통합\TTAP_Bora_PIMS_L4_2.log (1 hit)
+	Line 31: Software Version 26.3.6.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(paperwork@openbase.co.kr)\통합\TTAP_Server_L4_1.log (2 hits)
+	Line 27: Software Version 26.3.2.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(coffee2@openbase.co.kr)\통합\TTAP_Server_L4_2.log (2 hits)
+	Line 27: Software Version 26.3.2.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(icecoffee@openbase.co.kr)\통합\TTAP_SOASVR_L4_1.log (1 hit)
+	Line 34: Software Version 30.0.8.0 Image ID 4, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(generation@openbase.co.kr)\통합\TTAP_SOASVR_L4_2.log (1 hit)
+	Line 34: Software Version 30.0.8.0 Image ID 4, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(textfield@openbase.co.kr)\통합\TTAP_WEB_L4_1.log (2 hits)
+	Line 35: Software Version 26.3.2.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(htmlpage@openbase.co.kr)\통합\TTAP_WEB_L4_2.log (2 hits)
+	Line 33: Software Version 26.3.2.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(invalid99@openbase.co.kr)\통합\TTASHIP_L4_SW.log (1 hit)
+	Line 30: Software Version 29.0.3.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(something@openbase.co.kr)\통합\KSIT_AAS4416-TEMP-L4-1.log (1 hit)
+	Line 29: Software Version 30.0.9.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(school4@openbase.co.kr)\통합\KSIT_AAS4416-TEMP-L4-2.log (1 hit)
+	Line 29: Software Version 30.0.9.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(blackhand@openbase.co.kr)\통합\KSIT_Bora_AAS5412_L4_17.log (1 hit)
+	Line 30: Software Version 26.3.6.10 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(malformed@openbase.co.kr)\통합\KSIT_Bora_AAS5412_L4_18.log (1 hit)
+	Line 30: Software Version 26.3.6.10 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(whitecup@openbase.co.kr)\통합\KSIT_Bora_ACE180e_POS_1.log (2 hits)
+	Line 21: Software Version 10.0.30.7-SSH (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(doom@openbase.co.kr)\통합\KSIT_Bora_ACE180e_POS_2.log (2 hits)
+	Line 19: Software Version 10.0.30.7-SSH (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(checkthis@openbase.co.kr)\통합\KSIT_Bora_DaeriAuth_L4_1.log (1 hit)
+	Line 30: Software Version 25.3.7 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(basecamp@openbase.co.kr)\통합\KSIT_Bora_DaeriAuth_L4_2.log (1 hit)
+	Line 30: Software Version 25.3.7 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(pencil@openbase.co.kr)\통합\KSIT_Bora_DCB_AAS5224_L4-1.log (1 hit)
+	Line 29: Software Version 29.0.5.0 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(building@openbase.co.kr)\통합\KSIT_Bora_DCB_AAS5224_L4-2.log (1 hit)
+	Line 29: Software Version 29.0.5.0 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(devops3@openbase.co.kr)\통합\KSIT_Bora_ECM_L4-1.log (3 hits)
+	Line 30: Software Version 24.0.5 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(snowman@openbase.co.kr)\통합\KSIT_Bora_ECM_L4-2.log (3 hits)
+	Line 30: Software Version 24.0.5 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(checkthis@openbase.co.kr)\통합\KSIT_Bora_ERP_L4.log (2 hits)
+	Line 19: Software Version 10.0.30.7-SSH (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(paperwork@openbase.co.kr)\통합\KSIT_Bora_ERP_L4-1.log (3 hits)
+	Line 30: Software Version 25.3.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(whitecup@openbase.co.kr)\통합\KSIT_Bora_Global_Access_L4-1.log (3 hits)
+	Line 31: Software Version 25.3.0 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(whitecup@openbase.co.kr)\통합\KSIT_Bora_Global_Access_L4-2.log (3 hits)
+	Line 31: Software Version 25.3.0 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(paperwork@openbase.co.kr)\통합\KSIT_Bora_Intranet_L4-1.log (3 hits)
+	Line 30: Software Version 25.3.0 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(devops3@openbase.co.kr)\통합\KSIT_Bora_Intranet_L4-2.log (1 hit)
+	Line 30: Software Version 25.3.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(checkthis@openbase.co.kr)\통합\KSIT_Bora_Mobile_L4-1.log (1 hit)
+	Line 30: Software Version 24.0.7 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(icecoffee@openbase.co.kr)\통합\KSIT_Bora_Mobile_L4-2.log (3 hits)
+	Line 30: Software Version 24.0.7 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(whitecup@openbase.co.kr)\통합\KSIT_Bora_NIDS_L4-2.log (3 hits)
+	Line 30: Software Version 24.0.5 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(devops3@openbase.co.kr)\통합\KSIT_Bora_NIDS_L4-3.log (3 hits)
+	Line 17: Software Version 10.0.30.7-SSH (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(icecoffee@openbase.co.kr)\통합\KSIT_Bora_Out-Mail_L4-1.log (3 hits)
+	Line 31: Software Version 24.0.5 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(minitool@openbase.co.kr)\통합\KSIT_Bora_Out-Mail_L4-2.log (3 hits)
+	Line 31: Software Version 24.0.5 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(checkthis@openbase.co.kr)\통합\KSIT_Bora_Private_Access_L4-1.log (3 hits)
+	Line 30: Software Version 25.3.0 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(icecoffee@openbase.co.kr)\통합\KSIT_Bora_Private_Access_L4-2.log (3 hits)
+	Line 30: Software Version 25.3.0 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(whitecup@openbase.co.kr)\통합\KSIT_Bora_SLB_AAS4416_L4-1.log (1 hit)
+	Line 29: Software Version 29.0.4.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(devops3@openbase.co.kr)\통합\KSIT_Bora_SLB_AAS4416_L4-2.log (1 hit)
+	Line 29: Software Version 29.0.4.0 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(paperwork@openbase.co.kr)\통합\KSIT_Bora_SmartAuth_L4-1.log (1 hit)
+	Line 32: Software Version 25.3.0 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(devops3@openbase.co.kr)\통합\KSIT_Bora_SmartAuth_L4-2.log (3 hits)
+	Line 32: Software Version 25.3.0 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(minitool@openbase.co.kr)\통합\KSIT_Bora_SmartTouch_WEB_L4_1.log (2 hits)
+	Line 29: Software Version 29.0.3.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(paperwork@openbase.co.kr)\통합\KSIT_Bora_SmartTouch_WEB_L4_2.log (2 hits)
+	Line 29: Software Version 29.0.3.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(checkthis@openbase.co.kr)\통합\KSIT_Bora_Tworld_AAS6420_L4-1.log (1 hit)
+	Line 35: Software Version 30.5.6.0 Image ID 4, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(whitecup@openbase.co.kr)\통합\KSIT_Bora_Tworld_AAS6420_L4-2.log (1 hit)
+	Line 34: Software Version 30.5.6.0 Image ID 4, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(devops3@openbase.co.kr)\통합\KSIT_Bora6FB_Sec_Server_L4_1.log (1 hit)
+	Line 30: Software Version 29.0.5.10 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(minitool@openbase.co.kr)\통합\KSIT_Bora6FB_Sec_Server_L4_2.log (1 hit)
+	Line 30: Software Version 29.0.5.10 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(checkthis@openbase.co.kr)\통합\KSIT_STC_MVNO_L4-1.log (2 hits)
+	Line 31: Software Version 26.3.4.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(paperwork@openbase.co.kr)\통합\KSIT_STC_MVNO_L4-2.log (2 hits)
+	Line 31: Software Version 26.3.4.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(devops3@openbase.co.kr)\통합\KSIT_STC_NGM_L4#3.log (1 hit)
+	Line 32: Software Version 25.3.6 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(icecoffee@openbase.co.kr)\통합\KSIT_STC_NGM_L4#4.log (1 hit)
+	Line 32: Software Version 25.3.6 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(whitecup@openbase.co.kr)\통합\KSIT_STC_NGM_L4#5.log (1 hit)
+	Line 32: Software Version 24.0.5 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(icecoffee@openbase.co.kr)\통합\KSIT_STC_NGM_L4#6.log (1 hit)
+	Line 32: Software Version 24.0.5 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(devops3@openbase.co.kr)\통합\KSIT_STC_NGM_L4#8.log (1 hit)
+	Line 32: Software Version 24.0.5 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(checkthis@openbase.co.kr)\통합\KSIT_STC_NGM_L4-7.log (1 hit)
+	Line 32: Software Version 24.0.5 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(blackhand@openbase.co.kr)\통합\KSIT_STC_NGM_NIDS_L4.log (1 hit)
+	Line 30: Software Version 24.0.5 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(checkthis@openbase.co.kr)\통합\KSIT_STC_NIDS_L4.log (2 hits)
+	Line 19: Software Version 10.0.28.12-SSH (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(blackhand@openbase.co.kr)\통합\KSIT_STC2F_DBM3.0_A6420_1.log (1 hit)
+	Line 30: Software Version 30.0.5.0 Image ID 1, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(whitecup@openbase.co.kr)\통합\KSIT_STC2F_DBM3.0_A6420_2.log (1 hit)
+	Line 30: Software Version 30.0.5.0 Image ID 1, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(devops3@openbase.co.kr)\통합\KSIT_STC2F_HR_Analytics_L4_1.log (1 hit)
+	Line 30: Software Version 29.0.6.10 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(minitool@openbase.co.kr)\통합\KSIT_STC2F_HR_Analytics_L4_2.log (1 hit)
+	Line 30: Software Version 29.0.6.10 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(paperwork@openbase.co.kr)\통합\KSIT_STC2F_NITS_L4-1.log (4 hits)
+	Line 32: Software Version 24.0.5 (FLASH image1), active configuration.
+	C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(checkthis@openbase.co.kr)\통합\KSIT_STC2F_NITS_L4-2.log (3 hits)
+	Line 32: Software Version 24.0.5 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(orange99@openbase.co.kr)\통합\KSIT_STC2F_Rater_L4-1.log (1 hit)
+	Line 32: Software Version 24.0.5 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(icecoffee@openbase.co.kr)\통합\KSIT_STC2F_Rater_L4-2.log (3 hits)
+	Line 30: Software Version 23.2.9 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(devops3@openbase.co.kr)\통합\KSIT_STC2F_RevenueSafe_A5224#1.log (2 hits)
+	Line 28: Software Version 29.0.3.0 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(icecoffee@openbase.co.kr)\통합\KSIT_STC2F_RevenueSafe_A5224#2.log (2 hits)
+	Line 28: Software Version 29.0.3.0 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(whitecup@openbase.co.kr)\통합\KSIT_STC2F_TRBS_L4-1.log (1 hit)
+	Line 28: Software Version 29.0.2.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(blackhand@openbase.co.kr)\통합\KSIT_STC2F_TRBS_L4-2.log (1 hit)
+	Line 28: Software Version 29.0.2.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(devops3@openbase.co.kr)\통합\KSIT_STC2F_URTP_L4-1.log (3 hits)
+	Line 30: Software Version 25.3.6.40 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(minitool@openbase.co.kr)\통합\KSIT_STC2F_URTP_L4-2.log (1 hit)
+	Line 30: Software Version 25.3.2 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(devops3@openbase.co.kr)\통합\KSIT_STC3F_223.X_L4-1.log (3 hits)
+	Line 30: Software Version 25.3.1 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(checkthis@openbase.co.kr)\통합\KSIT_STC3F_223.X_L4-2.log (3 hits)
+	Line 30: Software Version 25.3.1 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(icecoffee@openbase.co.kr)\통합\KSIT_STC3F_IBRS_L4-1.log (1 hit)
+	Line 30: Software Version 24.0.5 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(whitecup@openbase.co.kr)\통합\KSIT_STC3F_IBRS_L4-2.log (1 hit)
+	Line 30: Software Version 24.0.5 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(blackhand@openbase.co.kr)\통합\KSIT_STC3F_InfoSystem_A5224#1.log (2 hits)
+	Line 28: Software Version 29.0.3.0 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(checkthis@openbase.co.kr)\통합\KSIT_STC3F_InfoSystem_A5224#2.log (2 hits)
+	Line 28: Software Version 29.0.3.0 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(paperwork@openbase.co.kr)\통합\KSIT_STC3F_TotalQM_AAS5412_1.log (1 hit)
+	Line 28: Software Version 29.0.3.0 Image ID 1, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(devops3@openbase.co.kr)\통합\KSIT_STC3F_TotalQM_AAS5412_2.log (1 hit)
+	Line 28: Software Version 29.0.3.0 Image ID 1, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(icecoffee@openbase.co.kr)\통합\KSIT_STC4F_COM_L4_1.log (3 hits)
+	Line 30: Software Version 24.0.5 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(devops3@openbase.co.kr)\통합\KSIT_STC4F_COM_L4_2.log (1 hit)
+	Line 30: Software Version 24.0.5 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(minitool@openbase.co.kr)\통합\KSIT_STC4F_FAXAP_L4_1.log (3 hits)
+	Line 30: Software Version 24.0.5 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(blackhand@openbase.co.kr)\통합\KSIT_STC4F_FAXAP_L4_2.log (3 hits)
+	Line 30: Software Version 24.0.5 (FLASH image1), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(orange99@openbase.co.kr)\통합\KSIT_STC4F_IntegrationID_A5224_L4_1.log (1 hit)
+	Line 29: Software Version 29.0.5.10 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(paperwork@openbase.co.kr)\통합\KSIT_STC4F_IntegrationID_A5224_L4_2.log (1 hit)
+	Line 29: Software Version 29.0.5.10 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(blackhand@openbase.co.kr)\통합\KSIT_STC4F_PrivateCloud_L4-1 - ADC-VX.log (3 hits)
+	Line 30: ADC Application Software Version 30.0.13.0, Image ID 4
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(minitool@openbase.co.kr)\통합\KSIT_STC4F_PrivateCloud_L4-1-vADC-1.log (1 hit)
+	Line 16: Software Version 30.0.13.0 Image ID 4, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(icecoffee@openbase.co.kr)\통합\KSIT_STC4F_PrivateCloud_L4-1-vADC-2.log (1 hit)
+	Line 16: Software Version 30.0.13.0 Image ID 4, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(blackhand@openbase.co.kr)\통합\KSIT_STC4F_PrivateCloud_L4-1-vADC-3.log (1 hit)
+	Line 16: Software Version 30.0.13.0 Image ID 4, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(minitool@openbase.co.kr)\통합\KSIT_STC4F_PrivateCloud_L4-1-vADC-4.log (1 hit)
+	Line 16: Software Version 30.0.13.0 Image ID 4, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(devops3@openbase.co.kr)\통합\KSIT_STC4F_PrivateCloud_L4-2-vADC-1.log (1 hit)
+	Line 16: Software Version 30.0.13.0 Image ID 4, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(checkthis@openbase.co.kr)\통합\KSIT_STC4F_PrivateCloud_L4-2-vADC-2.log (1 hit)
+	Line 16: Software Version 30.0.13.0 Image ID 4, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(devops3@openbase.co.kr)\통합\KSIT_STC4F_PrivateCloud_L4-2-vADC-3.log (1 hit)
+	Line 16: Software Version 30.0.13.0 Image ID 4, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(icecoffee@openbase.co.kr)\통합\KSIT_STC4F_PrivateCloud_L4-2-vADC-4.log (1 hit)
+	Line 16: Software Version 30.0.13.0 Image ID 4, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(paperwork@openbase.co.kr)\통합\KSIT_STC4F_SOA_A5224_L4-1.log (1 hit)
+	Line 28: Software Version 30.0.7.0 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(checkthis@openbase.co.kr)\통합\KSIT_STC4F_SOA_A5224_L4-2.log (1 hit)
+	Line 28: Software Version 30.0.7.0 Image ID 2, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(paperwork@openbase.co.kr)\통합\KSIT_STC4F_TotalSMS_A4416#1.log (2 hits)
+	Line 28: Software Version 29.0.3.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(devops3@openbase.co.kr)\통합\KSIT_STC4F_TotalSMS_A4416#2.log (2 hits)
+	Line 28: Software Version 29.0.3.0 (FLASH image2), active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(icecoffee@openbase.co.kr)\통합\KSIT_STC4F_WEB_L4-1 - ADC-VX.log (2 hits)
+	Line 28: ADC-VX Infrastructure Software Version 29.0.3.0, Image ID 4, active configuration.
+  C:\Users\swpark\Documents\주요네트워크장비 Health check\openbase_20181109(checkthis@openbase.co.kr)\통합\KSIT_STC4F_WEB_L4-1_vADC-1.log (1 hit)
+	Line 16: Software Version 29.0.3.0 Image ID 4, active configuration.
