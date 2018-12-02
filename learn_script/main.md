@@ -35,5 +35,5 @@
 
 ## 5. Python(3)
 
-### 설명자료: [OpenbaseSecurity_LearningScript_04.pdf](./05/OpenbaseSecurity_LearningScript_05.pdf)
+### 설명자료: [OpenbaseSecurity_LearningScript_05.pdf](./05/OpenbaseSecurity_LearningScript_05.pdf)
 ### 실습: [내용보기](./05/exercise.md)
