@@ -4,7 +4,6 @@ import re
 """
 정규식의 활용
 - 2018로 시작하는 8자리 숫자가 있는지 존재 여부 확인
-
 """
 
 dummy_string1 = 'aaabbccc dream (20181203-001)'
