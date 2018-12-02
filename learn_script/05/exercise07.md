@@ -1,6 +1,7 @@
 ## 지정한 네트워크 대역의 호스트들에 ping 체크하기
 
 지정한 대역에 해당하는 IPv4 주소를 구한다.
+
 ```python
 import ipaddress
 
@@ -28,7 +29,11 @@ IP: 61.82.88.14
 IP: 61.82.88.15
 ```
 
-네트워크의 IP들에 대해 ping 상태를 체크한다. ping 명령 실행에는 subprocess 모듈을 이용하고, ping 결과에서 호스트 up/down을 정규식으로 확인한다.
+네트워크의 IP들에 대해 ping 상태를 체크한다. 
+
+ping 명령 실행에는 subprocess 모듈을 이용하고, 
+
+ping 결과에서 호스트 up/down을 정규식으로 확인한다.
 
 ```python
 import ipaddress
@@ -39,7 +44,8 @@ p = re.compile(r'응답\:\s(.+)')
 
 for addr in ipaddress.IPv4Network('61.82.88.0/28'):
     # print('test ping {}'.format(addr))
-    ping_response = subprocess.Popen(["ping", str(addr), "-n", '1'], stdout=subprocess.PIPE, universal_newlines=True).stdout.read()
+    ping_response = subprocess.Popen(["ping", str(addr), "-n", '1'], 
+           stdout=subprocess.PIPE, universal_newlines=True).stdout.read()
     # print(ping_response)
 
     m = p.search(ping_response)

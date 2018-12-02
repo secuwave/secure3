@@ -21,3 +21,13 @@ print('match group(2) = %s  ' % m.group(2))
 print('match gruop(3) = %s  ' % m.group(3))
 print('match gruop(4) = %s  ' % m.group(4))
 ```
+
+출력:
+```
+match group() = Openbase-CyberSecuritySeminar At Koex 2018.12.03
+match group(0) = Openbase-CyberSecuritySeminar At Koex 2018.12.03
+match group(1) = Openbase
+match group(2) = CyberSecurity
+match gruop(3) = Koex
+match gruop(4) = 2018.12.03
+```
