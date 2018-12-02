@@ -29,12 +29,18 @@ layout: default
 
 ## 5.파일 목록에서 장비 목록 만들기
 
-[보기](./exercise05.md) [(test5_regex_device 다운로드)](./test5_regex_device)
+[보기](./exercise05.md) [(test5_regex_device.zip 다운로드)](./test5_regex_device.zip)
 
 ---------------------------
 
-## 6.파일 목록에서 장비 목록 만들기
+## 6.방화벽 로그에서 IP 주소만 찾아 변경하기
 
-[보기](./exercise06.md) [(test5_regex_device 다운로드)](./test5_regex_device)
+[보기](./exercise06.md) [(test6_regex_ip.zip 다운로드)](./test6_regex_ip.zip)
+
+---------------------------
+
+## 7.방화벽 로그에서 IP 주소만 찾아 변경하기
+
+[보기](./exercise07.md) [(test5_regex_device 다운로드)](./test5_regex_device)
 
 ---------------------------
