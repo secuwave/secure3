@@ -39,3 +39,22 @@ print('findall m = {}'.format(m))
 for i in m:
     print('matched item: {}'.format(i))
 ```
+
+출력:
+```
+---------------------
+문자열 "12.aaabbcccdream333-taa(20181203-001)"에서 정규식 "\d+" 일치를 테스트
+
+match m = <_sre.SRE_Match object; span=(0, 2), match='12'>
+search m = <_sre.SRE_Match object; span=(0, 2), match='12'>
+findall m = ['12', '333', '20181203', '001']
+---------------------
+문자열 "12.aaabbcccdream333-taa(20181203-001)"에서 정규식 "a+" 일치를 테스트
+
+match m = None
+search m = <_sre.SRE_Match object; span=(3, 6), match='aaa'>
+findall m = ['aaa', 'a', 'aa']
+matched item: aaa
+matched item: a
+matched item: aa
+```

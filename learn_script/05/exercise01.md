@@ -26,3 +26,9 @@ if m:
 else:
     print('"{}" not matched'.format(dummy_string2))
 ```
+
+출력:
+```
+"aaabbccc dream (20181203-001)" matched
+"serial-987620181203001" not matched
+```
