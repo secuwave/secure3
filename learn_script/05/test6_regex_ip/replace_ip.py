@@ -11,7 +11,7 @@ import re
 p = re.compile(r'\b\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\b')
 
 with open('forwardTrafficLog.Log', encoding='utf8') as inf:
-    with open('output.txt', 'w') as of:
+    with open('output.dat', 'w') as of:
         for line in inf:
             print(line)
             new_line = p.sub('vvv.vvv.vvv.vvv', line)

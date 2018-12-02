@@ -14,3 +14,4 @@ with open('input.txt', encoding='utf8') as inf:
         for line in inf:
             print(line)
             of.write(line)
+            

@@ -4,6 +4,8 @@
 
 모든 ip 주소를 'vvv.vvv.vvv.vvv'로 변경한다.
 
+- 입력: [forwardTrafficLog.Log](./test6_regex_ip/forwardTrafficLog.Log)
+
 ```python
 import re
 
@@ -11,9 +13,10 @@ import re
 p = re.compile(r'\b\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\b')
 
 with open('forwardTrafficLog.Log', encoding='utf8') as inf:
-    with open('output.txt', 'w') as of:
+    with open('output.dat', 'w') as of:
         for line in inf:
             print(line)
             new_line = p.sub('vvv.vvv.vvv.vvv', line)
             of.write(new_line)
 ```
+- 결과: [output.dat](./test6_regex_ip/output.dat)

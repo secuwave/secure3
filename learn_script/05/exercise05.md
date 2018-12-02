@@ -1,10 +1,10 @@
 ## 파일 목록에서 장비 목록 만들기
 
-아래의 스크립트는 
-
-input.txt의 내용을 줄단위로 읽어서 변형없이 output.txt에 쓴다.
+아래의 스크립트는 input.txt의 내용을 줄단위로 읽어서 변형없이 output.txt에 쓴다.
 
 두 파일의 내용이 같아진다.
+
+- 입력: [input.txt](./test5_regex_device/input.txt)
 
 ```python
 import re
@@ -39,10 +39,9 @@ with open('input.txt', encoding='utf8') as inf:
             if m:
                 of.write(m.group(1)+'\n')
 ```
+- 결과: [output1.txt](./test5_regex_device/output1.txt)
 
-아래의 스크립트는 
-
-input.txt의 내용을 줄단위로 읽어서 
+아래의 스크립트는 input.txt의 내용을 줄단위로 읽어서 
 
 '\((.+)@[\w\.]+]\)\\통합\\(.+)\.log' 정규식에 일치하는 경우 
 
@@ -63,3 +62,4 @@ with open('input.txt', encoding='utf8') as inf:
             if m:
                 of.write(m.group(1) + ',' + m.group(2) + '\n')
 ```
+- 결과: [output2.csv](./test5_regex_device/output2.csv)
