@@ -39,8 +39,8 @@ layout: default
 
 ---------------------------
 
-## 7.방화벽 로그에서 IP 주소만 찾아 변경하기
+## 7.지정한 네트워크 대역의 호스트들에 ping 체크하기
 
-[보기](./exercise07.md) [(test5_regex_device 다운로드)](./test5_regex_device)
+[보기](./exercise07.md) [(test7_iplist.py 다운로드)](./test7_iplist.py), [(test7_ping_network.py 다운로드)](./test7_ping_network.py)
 
 ---------------------------

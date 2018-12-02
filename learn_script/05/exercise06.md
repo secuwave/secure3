@@ -1,7 +1,7 @@
 ## 방화벽 로그에서 IP 주소만 찾아 변경하기
 
 아래의 스크립트는 traffic log를 줄단위로 읽어서 
-ip 주소를 그 앞의 정보를 포함해서 추출한다.
+모든 ip 주소를 'vvv.vvv.vvv.vvv'로 변경한다.
 
 ```python
 import re
