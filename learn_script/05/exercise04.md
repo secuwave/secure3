@@ -1,32 +1,23 @@
 ## 정규식 group의 활용: 일치된 파트 중 특정 부분 추출
 
-사용할 정규식의 컴파일
-아래와 같이 정규식과 문자열을 파라미터로 매번 넘겨줘서 정규식 매칭을 검사할 수 있지만, 
-한가지 정규식이 여러번 반복 사용된다면 한번 컴파일 하여 사용하는 것이 편리하다.
-- re.search('\d+', '123456abcdefg')
-- re.match('\d+', '123456abcdefg')
-- re.findall('\d+', test_string)
+
+정규식 매칭된 부분 가져오기
+* grup(): 정규식에 일치한 파트 전체
+* group(n): n번째 일치된 그룹. 0번째는 일치된 파트 전체
 
 ```python
 import re
 
 
-dummy_string = '12.aaabbcccdream333-taa(20181203-001)'
-
-# 컴파일하지 않는 예
-regex = r'\d{3,4}'  #3~4자리의 숫자
-m = re.search(regex, dummy_string)
-print('search m = {}'.format(m))
-
-m = re.findall(regex, dummy_string)
-print('findall m = {}'.format(m))
-
-# 정규식 컴파일
-p = re.compile(regex)
-
-m = p.search(dummy_string)
-print('(compile) search m = {}'.format(m))
-
-m = p.findall(dummy_string)
-print('(compile) findall m = {}'.format(m))
+# 문자열에서 주최한 회사, 세미나 이름, 장소, 날짜만 뽑는 정규식. 
+# 괄호를 이용해서 정규식의 group을 지정해 원하는 파트별로 뽑을 수 있다.
+dummy = 'Openbase-CyberSecuritySeminar At Koex 2018.12.03 - Speaker: Richard'
+p = re.compile(r'^(.+)-(.+)Seminar At (.+) ([\d\.]{10})')
+m = p.search(dummy)
+print('match group() = %s  ' % m.group())
+print('match group(0) = %s  ' % m.group(0))
+print('match group(1) = %s  ' % m.group(1))
+print('match group(2) = %s  ' % m.group(2))
+print('match gruop(3) = %s  ' % m.group(3))
+print('match gruop(4) = %s  ' % m.group(4))
 ```
