@@ -29,7 +29,7 @@ layout: default
 
 ## 5.정규식 컴파일
 
-[보기](./exercise03.md) [(test3_regex.py 다운로드)](./test3_regex.py)
+[보기](./exercise05.md) [(test5_regex.py 다운로드)](./test5_regex.py)
 
 ---------------------------
 ## 필요한 정보만 추출

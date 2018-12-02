@@ -1,17 +1,15 @@
 ## 정규식 컴파일
 
-```python
-import re
-
-
-"""
 사용할 정규식의 컴파일
 아래와 같이 정규식과 문자열을 파라미터로 매번 넘겨줘서 정규식 매칭을 검사할 수 있지만, 
 한가지 정규식이 여러번 반복 사용된다면 한번 컴파일 하여 사용하는 것이 편리하다.
 - re.search('\d+', '123456abcdefg')
 - re.match('\d+', '123456abcdefg')
 - re.findall('\d+', test_string)
-"""
+
+```python
+import re
+
 
 dummy_string = '12.aaabbcccdream333-taa(20181203-001)'
 
