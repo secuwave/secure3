@@ -44,3 +44,6 @@ layout: default
 [보기](./exercise07.md) [(test7_iplist.py 다운로드)](./test7_iplist.py), [(test7_ping_network.py 다운로드)](./test7_ping_network.py)
 
 ---------------------------
+
+# TCP 포트 스캔
+[보기](./exercise08.md) [(test8_portscan.py 다운로드)](./test8_portscan.py)
