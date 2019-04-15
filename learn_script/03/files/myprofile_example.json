@@ -1,0 +1,33 @@
+{
+    "name": "Kim YK",
+    "age": 99,
+    "email": "uhurue@openbase.co.kr",
+    "father": {
+        "name":"Kim SJ",
+        "age": 70
+    },
+    "mother": {
+        "name":"Kim KH",
+        "age":60
+    },
+    "brother": {
+        "name": "Kim JH",
+        "age": 37
+    },
+    "sister": {
+        "name": "Kim JH",
+        "age": 39
+    },,
+    "career": [
+        {
+            "company":"Infosec",
+            "begin": "2004.6",
+            "end":"2011.9"
+        },
+        {
+            "company":"Openbase",
+            "begin": "2011.10",
+            "end":null
+        }
+    ]
+}
